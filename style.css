@@ -7,6 +7,10 @@ section{
     text-align: center;
 }
 
+h1{
+    font-size: 175px;
+    color: rgb(138, 181, 54);
+}
 
 p {
     font-size: 75px;
@@ -14,5 +18,6 @@ p {
 
 button{
     font-size: 20px;
-    background-color: rgb(8, 146, 8);
+    background-color:  rgb(138, 181, 54);
+    color:rgb(189, 189, 189);
 }
